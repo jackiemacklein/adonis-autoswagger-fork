@@ -5,10 +5,6 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "Adis Durakovic <adis.durakovic@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ad-on-is/adonis-autoswagger"
-  },
   "license": "MIT",
   "dependencies": {
     "@vinejs/vine": "^2.1.0",
